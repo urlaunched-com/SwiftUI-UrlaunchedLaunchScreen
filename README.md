@@ -1,7 +1,7 @@
 # SwiftUI-UrlaunchedLaunchScreen
 ![Author](https://img.shields.io/badge/author-Vladyslav%20Fil-brightgreen.svg)
-![Xcode 13.1](https://img.shields.io/badge/Xcode-13.1-blue.svg)
-![Swift 5.1](https://img.shields.io/badge/Swift-5.1-blue.svg)
+![Xcode 13.1](https://img.shields.io/badge/Xcode-13.2.1-blue.svg)
+![Swift 5.1](https://img.shields.io/badge/Swift-5.5-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-black.svg)
 ![Contact](https://img.shields.io/badge/contact-i%40urlaunched.com-yellow.svg)
 
@@ -12,14 +12,9 @@ Developed by [Vladyslav Fil](https://www.linkedin.com/in/vladyslav-fil/) as part
 </p>
 
 ### Animated Launch Screen based on company`s logo implemented on SwiftUI.
-<img src="https://gitlab.com/you-are-launched/design-concept-award/season-2/vladyslav-fil/-/raw/main/simulator13.gif" width="700px">
+<img src="https://github.com/urlaunched-com/SwiftUI-UrlaunchedLaunchScreen/blob/main/simulator13.gif" width="700px">
 
-<img src="https://gitlab.com/you-are-launched/design-concept-award/season-2/vladyslav-fil/-/raw/main/iphone7.gif" width="300px">
-
-## Requirements
-* Xcode 13+
-* iOS 14.1+
-* Swift 5.1
+<img src="https://github.com/urlaunched-com/SwiftUI-UrlaunchedLaunchScreen/blob/main/iphone7.gif" width="300px">
 
 ## License
 
